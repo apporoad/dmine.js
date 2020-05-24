@@ -1,0 +1,30 @@
+{
+  "name": "dmine.js",
+  "version": "1.0.0",
+  "description": "resource framework of db or others ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/dmine.js.git"
+  },
+  "keywords": [
+    "resource",
+    "db",
+    "xml"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/dmine.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/dmine.js#readme",
+  "dependencies": {
+    "knex": "^0.21.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
